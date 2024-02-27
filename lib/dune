@@ -1,0 +1,3 @@
+(library
+ (public_name serde_csv)
+ (name serde_csv))
